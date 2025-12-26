@@ -52,6 +52,7 @@ match /databases/{database}/documents {
  }
 }
 }
+```
 
 ## 6. Run the App
 
